@@ -5,9 +5,9 @@ const chalk = require('chalk')
 global.wlcm = []
 global.ntnsfw = []
 global.ntnsfww = []
-global.autorecording = false //status auto merekam ( auto record )
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.available = true //status online (online)
 //gausah di apa² in!
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -30,9 +30,9 @@ global.botname = '6283163989496' //ubah jadi nama bot mu, note tanda ' gausah di
 global.footer = '6283163989496' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283163989496']
-global.premium = ['6283163989496']
-global.packname = '6283163989496'
+global.owner = ['6283163989496', '62895401141444']
+global.premium = ['6283163989496', '62895401141444']
+global.packname = 'mayangbos'
 global.ownerr = ['6283163989496']
 global.author = '6283163989496'
 global.sessionName = 'session'
