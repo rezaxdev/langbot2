@@ -7621,7 +7621,6 @@ haikal.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
 break
 //=================================================//
 case 'menu':{
-if (!isCreator) throw sticOwner(from)
 if (isBan) throw sticBanLu(from)
 /*if (isBan) throw sticBanLu(from) Kalau Mau Self Hapus Aja yang Tanda*/ /* sama */
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
