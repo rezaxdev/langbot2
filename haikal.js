@@ -1,6 +1,6 @@
 /*
-› Create By Haikal
-› Base Ori Haikal
+› Create By Reza
+› Base Ori Reza
 
 🌷 KALAU MAU RENAME TARO CREDITS GUA : POWERED BY RETEAM.ID*/
 
@@ -7808,6 +7808,754 @@ haikal.relayMessage(m.chat, template.message, { messageId: template.key.id })
 }
 break
 //=================================================//
+
+
+case 'allmenu': {
+var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
+"requestPaymentMessage": {
+"requestFrom": `${nomore2}@s.whatsapp.net`,
+"currencyCodeIso4217": "USD",
+"amount1000": "10000000",
+"noteMessage": {
+"extendedTextMessage": {
+"text": `
+Hay Kak ${pushname} 👋 
+Ada yang bisa saya bantu
+Saya adalah bot WhatsApp 
+
+
+
+*BUG MENU*
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+> m.chat ( ambil id grup )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bugaudio1 ( bug audio )
+➢  bugaudio2 ( bug audio )
+➢  bugaudio3 ( bug audio )
+➢  bugaudio4 ( bug audio )
+➢  bugaudio5 ( bug audio )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bugstik1 ( bug sticker )
+➢  bugstik2 ( bug sticker )
+➢  bugstik3 ( bug sticker )
+➢  bugstik4 ( bug sticker )
+➢  bugstik5 ( bug sticker )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bugvid1 ( bug video )
+➢  bugvid2 ( bug video )
+➢  bugvid3 ( bug video )
+➢  bugvid4 ( bug video )
+➢  bugvid5 ( bug video )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bugvn1 ( bug pesan suara )
+➢  bugvn2 ( bug pesan suara )
+➢  bugvn3 ( bug pesan suara )
+➢  bugvn4 ( bug pesan suara )
+➢  bugvn5 ( bug pesan suara )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bugking ( bug document )
+➢  bugsilver ( bug document )
+➢  bugpdf ( bug document ) 
+➢  kagas ( bug document )
+➢  bugcew ( bug document )
+➢  bugzip ( bug document )
+➢  bugpptx ( bug document )
+➢  bugxlsx ( bug document )
+➢  bugdocx ( bug document )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  ngebugkatalogv1 ( bug katalog di sertai bug remotejid )
+➢  ngebugkatalogv2 ( bug katalog di sertai bug remotejid )
+➢  ngebugkatalogv3 ( bug katalog di sertai bug remotejid )
+➢  ngebugkatalogv4 ( bug katalog di sertai bug remotejid )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  ngebuggifv1 ( bug gif disertai bug quoted )
+➢  ngebuggifv2 ( bug gif disertai bug quoted )
+➢  ngebuggifv3 ( bug gif disertai bug quoted )
+➢  ngebuggifv4 ( bug gif disertai bug quoted )
+➢  ngebuggifv5 ( bug gif disertai bug quoted )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  ngebugv1 ( bug teks )
+➢  ngebugv2 ( bug teks )
+➢  ngebugv3 ( bug teks )
+➢  ngebugv4 ( bug teks )
+➢  ngebugv5 ( bug teks )
+➢  ngebugv6 ( bug teks )
+➢  ngebugv7 ( bug teks )
+➢  ngebugv8 ( bug teks ) 
+➢  ngebugv9 ( bug teks )
+➢  ngebugv10 ( bug teks )
+➢  ngebugv11 ( bug teks )
+➢  ngebugv12 ( bug teks )
+➢  ngebugv13 ( bug teks )
+➢  ngebugv14 ( bug teks )
+➢  ngebugv15 ( bug teks )
+➢  ngebugv16 ( bug teks )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bugsun ( bug doc quoted )
+➢  bugmat ( bug doc reply )
+➢  bugcrot ( bug bokep )
+➢  bugbokep ( bug kirim bokep )
+➢  bugsange ( bug kirim hentai )
+➢  bugngtd ( bug kirim porno )
+➢  bugjum
+( bug setting jumlah v1  )
+➢  bugjum2
+( bug setting jumlah v2 )
+➢  gas
+( bomber )
+➢  buttonampas ( lag but )
+➢  crash666 ( crash pesan kosong v1 )
+➢  remotejid ( crash pesan kosong v2  )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+Contoh Pengunaan : sendrr 628xxxx /id grup
+
+➢  Bug Cr Vip [ true / false ]
+➢  spam [ Reply Bug For Spam ]
+➢  bugtag [ Bug Yang Sambil Ngetag ]
+➢  bol [ bug payment ]
+➢  sendpy [ bug participants ]
+➢  sendkg [ bug inti pc ]
+➢  sendrr [ bug inti gc]
+➢  sendpointer [ bug ghost ]
+➢  op [ bug ephemeral ]
+➢  bugghoib on/off
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+Contoh Pengunaan : spambug [ nomor/reply ]
+
+➢  spambug1 ( bomber )
+➢  spambug2 ( bomber )
+➢  spambug3 ( bomber )
+➢  spambug4 ( bomber )
+➢  spambug5 ( bomber )
+➢  spambug6 ( bomber )
+➢  spamslayer ( bomber )
+➢  spamngazap ( bomber )
+➢  spamv ( bomber )
+➢  sendbugloc ( 628xxxxx )
+➢  sendbugv1 ( 628xxxxx )
+➢  sendbugv2  ( 628xxxxx )
+➢  sendbuggc  (  idxxxxx )
+➢  sendbugpc   ( 628xxxxx )
+➢  attack  ( 628xxxxx )
+➢  sendbugkon ( 628xxxxx )
+➢  sendbug ( 628xxxxx )
+➢  sendbugfc (628xxxxx )
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  v1 [ bugvn ]
+➢  v2 [ bugvn ]
+➢  v3 [ bugvn ]
+➢  v4 [ bugvn ]
+➢  v5 [ bugvn ]
+➢  v6 [ bugvn ]
+➢  v7 [ bugvn ]
+➢  v8 [ bugvn ]
+➢  v9 [ bugvn ]
+➢  v10 [ bugvn ]
+➢  v11 [ bugvn ]
+➢  v12 [ bugvn ]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bug1 [ bug mentions ]
+➢  bug2 [ bug mentions ]
+➢  bug3 [ bug mentions ]
+➢  bug4 [ bug mentions ]
+➢  bug5 [ bug mentions ]
+➢  bug6 [ bug mentions ]
+➢  bug7 [ bug mentions ]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  poll [ polling ]
+➢  inibug [ Bug Tagall ]
+➢  hiya [ Bug Document ]
+➢  loc [ Bug Live Lokasi ]
+➢  bugloc [ Bug  Lokasi ]
+➢  catalog [ Bug Catalog ]
+➢  docu [ document ]
+➢  daca [ document ]
+➢  duc [ document ]
+➢  ducu [ document ]
+➢  troli [ Bug Troli ]
+➢  troli2 [ Bug Troli 2 ]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  jadibug1 [ Reply Video Jadi Bug Audio ]
+➢  jadibug2 [ Reply Video Jadi Bug Mp3 ]
+➢  jadibug3 [ Reply Audio Jadi Bug Vn ]
+➢  jadibug4 [ Reply Sticker Jadi Bug Gambar ]
+➢  jadibug5 [ Reply Gambar Jadi Bug Once ] 
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  bugstik [ Contoh : Bugstik 5 ]
+➢  bugie [ Contoh : Bugstik 5 ]
+➢  bugtod [ Bug Contact ]
+➢  bugvid [ Bug Video ]
+➢  buginvite [ Bug Khusus Chat Pribadi ]
+➢  bugbctext [ Bug Text Broadcast ]
+➢  bugbcimage [ Bug Image Broadcast ]
+➢  bugbcvideo [ Bug Video Broadcast ]
+➢  bugbcaudio [ Bug Audio Broadcast ]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  nyampah  [ Contoh : nyampah 628xxx ]
+➢  nyampah2 [Contoh : nyampah2 112674448xxx ]
+➢  nyampah3 [Contoh : nyampah3 112674448xxx ]
+➢  santed  [ Contoh : Santed 628xxx ]
+➢  catalogpc [ Contoh : catalogpc 628xxx@s.whatsapp.net|10|10s ]
+➢  cataloggc [ Contoh : cataloggc 1237891xxxx@g.us|10|10s ]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  pinterestdl url]
+➢  ytmp3 url
+➢  ytmp4 url
+➢  getmusic query
+➢  getvideo query
+➢ ntt url
+➢  ttnowm url
+➢  ttaudio url
+➢  tiktok url
+➢  ttmp3 url
+➢  mediafire url
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  asupan
+➢  asupanukhty
+➢  asupansantuy
+➢  cecan-malaysia
+➢  cecan-indo
+➢  hijaber
+➢  cecan-korea
+➢  cecan-vietnam
+➢  cecan-thai
+➢  cecan-jepan
+➢  cecan
+➢  bokep
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ leaderboard
+➢ inventori
+➢ mining
+➢ beli
+➢ jual
+➢ heal
+➢ berburu
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ anime
+➢ coffe
+➢ quotesanime
+➢ couple
+➢ umma
+➢ wibu
+➢ loli
+➢ bully
+➢ waifu
+➢ cuddle
+➢ neko
+➢ cry
+➢ kiss
+➢ hug
+➢ lick
+➢ awoo
+➢ yeet
+➢ bite
+➢ lick
+➢ pat
+➢ kill
+➢ nom
+➢ poke
+➢ wink
+➢ bonk
+➢ glomp
+➢ smug
+➢ blush
+➢ wave
+➢ smile
+➢ highfive
+➢ cringe
+➢ dance
+➢ happy
+➢ handhold 
+➢ darkjoke
+➢ meme
+➢ meme2
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ play [query]
+➢ yts [query]
+➢ google [query]
+➢ gimage [query]
+➢ pinterest [query]
+➢ wallpaper [query]
+➢ wikimedia [query]
+➢ ytsearch [query]
+➢ ringtone [query]
+➢ searchgroups [query]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢   setcmd
+➢   listcmd
+➢   delcmd
+➢   lockcmd
+➢   addmsg
+➢   listmsg
+➢   getmsg
+➢   delmsg
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ merdeka-news
+➢ kontan-news 
+➢ cnbc-news
+➢ tribun-news
+➢ indozone-news
+➢ kompas-news
+➢ detik-news
+➢ daily-news
+➢ inews-news
+➢ okezone-news
+➢ sindo-news
+➢ tempo-news
+➢ antara-news
+➢ cnn-news
+➢ fajar-news 
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢   iqra
+➢   hadist
+➢   alquran
+➢   juzamma
+➢   tafsirsurah
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ bass
+➢ blown
+➢ deep
+➢ earrape
+➢ fast
+➢ fat
+➢ nightcore
+➢ reverse
+➢ robot
+➢ slow
+➢ tupai
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢   anonymous
+➢   start
+➢   next
+➢   keluar
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  nomorhoki
+➢  artimimpi
+➢  artinama
+➢  ramaljodoh
+➢  ramaljodohbali
+➢  suamiistri
+➢  ramalcinta
+➢  cocoknama
+➢  pasangan
+➢  jadiannikah
+➢  sifatusaha
+➢  rezeki
+➢  pekerjaan
+➢  nasib
+➢  penyakit
+➢  tarot
+➢  fengshui
+➢  haribaik
+➢  harisangar
+➢  harisial
+➢  nagahari
+➢  arahrezeki
+➢  peruntungan
+➢  weton
+➢  karakter
+➢  keberuntungan
+➢  memancing
+➢  masasubur
+➢  zodiak
+➢  shio
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢  linkgroup
+➢  ephemeral [option]
+➢  setppgc [image]
+➢  setname [text]
+➢  setdesc [text]
+➢  group [option]
+➢  editinfo [option]
+➢  add @user
+➢  kick @user
+➢  ban [targer]
+➢  hidetag [text]
+➢  tagall [text]
+➢  promote @user
+➢  demote @user
+➢  vote [text]
+➢  spam [ jumlah ]
+➢  devote
+➢  inspect
+➢  getname
+➢  translate
+➢  kalkulator
+➢  intro
+➢  getpic
+➢  penjara
+➢  intro
+➢  upvote
+➢  cekvote
+➢  hapusvote
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ attp
+➢ ttp
+➢ toimage
+➢ sticker
+➢ emojimix
+➢ emojimix2
+➢ tovideo
+➢ togif
+➢ tourl
+➢ tovn
+➢ toonce
+➢ tomp3
+➢ toaudio
+➢ ebinary
+➢ dbinary
+➢ styletext
+➢ smeme
+➢ ss [url]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ bagaimanakah
+➢ kapankah
+➢ apakah
+➢ bisakah
+➢ rate
+➢ wangy
+➢ gantengcek
+➢ cekganteng
+➢ cantikcek
+➢ cekcantik
+➢ sangecek
+➢ ceksange
+➢ gaycek
+➢ cekgay
+➢ lesbicek
+➢ halah
+➢ hilih
+➢ huluh
+➢ heleh
+➢ holoh
+➢ jadian
+➢ jodohku
+➢ delttt
+➢ tictactoe
+➢ family100
+➢ tebak [option]
+➢ math [mode]
+➢ suitpvp [@tag]
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ react [emoji]
+➢ chat [option]
+➢ join [link]
+➢ leave
+➢ block @user
+➢ unblock @user
+➢ bcgroup [text]
+➢ bcimage
+➢ bctext
+➢ bcvideo
+➢ bcaudio
+➢ bcall [text]
+➢ setppbot [image]
+➢ setexif
+➢ setmenu [option]
+➢ ping
+➢ owner
+➢ creator
+➢ menu / help /?
+➢ delete
+➢ infochat
+➢ quoted
+➢ cowner
+➢ listpc
+➢ listgc
+➢ listonline
+➢ speedtest
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+➢ sound1
+➢ sound2
+➢ sound3
+➢ sound4
+➢ sound5
+➢ sound6
+➢ sound7
+➢ sound8
+➢ sound9
+➢ sound10
+➢ sound11
+➢ sound12
+➢ sound13
+➢ sound14
+➢ sound15
+➢ sound16
+➢ sound17
+➢ sound18
+➢ sound19
+➢ sound20
+➢ sound21
+➢ sound22
+➢ sound23
+➢ sound24
+➢ sound25
+➢ sound26
+➢ sound27
+➢ sound28
+➢ sound29
+➢ sound30
+➢ sound31
+➢ sound32
+➢ sound33
+➢ sound34
+➢ sound35
+➢ sound36
+➢ sound37
+➢ sound38
+➢ sound39
+➢ sound40
+➢ sound41
+➢ sound42
+➢ sound43
+➢ sound44
+➢ sound45
+➢ sound46
+➢ sound47
+➢ sound48
+➢ sound49
+➢ sound50
+➢ sound51
+➢ sound52
+➢ sound53
+➢ sound54
+➢ sound55
+➢ sound56
+➢ sound57
+➢ sound58
+➢ sound59
+➢ sound60
+➢ sound61
+➢ sound62
+➢ sound63
+➢ sound64
+➢ sound65
+➢ sound66
+➢ sound67
+➢ sound68
+➢ sound69
+➢ sound70
+➢ sound71
+➢ sound72
+➢ sound73
+➢ sound74
+➢ sound75
+➢ sound76
+➢ sound77
+➢ sound78
+➢ sound79
+➢ sound80
+➢ sound81
+➢ sound82
+➢ sound83
+➢ sound84
+➢ sound85
+➢ sound86
+➢ sound87
+➢ sound88
+➢ sound89
+➢ sound90
+➢ sound91
+➢ sound92
+➢ sound93
+➢ sound94
+➢ sound95
+➢ sound96
+➢ sound97
+➢ sound98
+➢ sound99
+➢ sound100
+➢ sound101
+➢ sound102
+➢ sound103
+➢ sound104
+➢ sound105
+➢ sound106
+➢ sound107
+➢ sound108
+➢ sound109
+➢ sound110
+➢ sound111
+➢ sound112
+➢ sound113
+➢ sound114
+➢ sound115
+➢ sound116
+➢ sound117
+➢ sound118
+➢ sound119
+➢ sound120
+➢ sound121
+➢ sound122
+➢ sound123
+➢ sound124
+➢ sound125
+➢ sound126
+➢ sound127
+➢ sound128
+➢ sound129
+➢ sound130
+➢ sound131
+➢ sound132
+➢ sound133
+➢ sound134
+➢ sound135
+➢ sound136
+➢ sound137
+➢ sound138
+➢ sound139
+➢ sound140
+➢ sound141
+➢ sound142
+➢ sound143
+➢ sound144
+➢ sound145
+➢ sound146
+➢ sound147
+➢ sound148
+➢ sound149
+➢ sound150
+➢ sound151
+➢ sound152
+➢ sound153
+➢ sound154
+➢ sound155
+➢ sound156
+➢ sound157
+➢ sound158
+➢ sound159
+➢ sound160
+➢ sound161
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+
+
+
+
+
+`,
+}
+}}}), { userJid: m.chat, quoted: m })
+haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
+}
+break
 default:
 if (budy.startsWith('=>')) {
 if (!isCreator) return
