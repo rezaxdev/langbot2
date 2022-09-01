@@ -40,7 +40,7 @@ const bugfc = {key: { fromMe: false, participant: `0@s.whatsapp.net`, ...({ remo
 
 // const nomore = text.replace(/[^0-9]/g, '')+'@s.whatsapp.net'
        
-// const nomore2 = m.sender.replace(/[^0-9]/g, '')
+ const nomore2 = m.sender.replace(/[^0-9]/g, '')
 // const nomore3 = text.replace(/[^0-9]/g, '')
       
 
