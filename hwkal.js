@@ -30,8 +30,8 @@ global.botname = '6283163989496' //ubah jadi nama bot mu, note tanda ' gausah di
 global.footer = '6283163989496' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283163989496', '6282134599945']
-global.premium = ['6283163989496', '6282134599945']
+global.owner = ['62881027686722', '6282134599945']
+global.premium = ['62881027686722', '6282134599945']
 global.packname = 'mayangbos'
 global.ownerr = ['6283163989496']
 global.author = '6283163989496'
