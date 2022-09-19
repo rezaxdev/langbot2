@@ -30,11 +30,11 @@ global.botname = '6283163989496' //ubah jadi nama bot mu, note tanda ' gausah di
 global.footer = '6283163989496' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62881027686722', '6283845002287', '6281998212517', '6282121268128', '6281358890606', '6288214464429', '6285781557013', '6281316762263', '6281386034074', '6282139145280']
-global.premium = ['62881027686722', '6283845002287', '6281998212517', '6282121268128', '6281358890606', '6282139145280']
+global.owner = ['62881027686722', '6282121268128']
+global.premium = ['62881027686722', '6282121268128']
 global.packname = 'mayangbos'
-global.ownerr = ['6283163989496']
-global.author = '6283163989496'
+global.ownerr = ['62881027686722']
+global.author = '62881027686722'
 global.sessionName = 'session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
